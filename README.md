@@ -1,1 +1,1 @@
-# Artistic-Infinity-.github
+pip install -r requirements.txt
